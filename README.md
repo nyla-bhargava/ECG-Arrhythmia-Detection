@@ -31,7 +31,7 @@ How It Works:
 
 6. Display: Results (bpm and arrhythmia status) are shown on the GUI, alongside the ECG graph.
 
-
+![ECG GUI Screenshot]()
 
 
 
