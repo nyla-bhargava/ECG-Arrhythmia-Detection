@@ -12,7 +12,7 @@ Features
 
 -Arrhythmia Classification:
 
-      Normal (60–100 bpm)
+     Normal (60–100 bpm)
 
      Bradycardia (< 60 bpm)
 
@@ -25,13 +25,22 @@ How It Works:
 
 3. Peak Detection: R-peaks are detected using signal processing techniques.
 
-4. Heart Rate Calculation: Intervals between beats are used to calculate bpm.
+   ![Detected R peaks](https://github.com/user-attachments/assets/67cf075c-969e-4535-9aef-4d2b443f10fa)
 
-5. Arrhythmia Classification: Based on bpm thresholds, the condition is classified.
+5. Heart Rate Calculation: Intervals between beats are used to calculate bpm.
 
-6. Display: Results (bpm and arrhythmia status) are shown on the GUI, alongside the ECG graph.
+   ![Instantaneous Heart Rate](https://github.com/user-attachments/assets/e5973d4a-d3c7-4fe7-ad78-a5d1042d2b3d)
 
-![ECG GUI Screenshot]()
+6. Arrhythmia Classification: Based on bpm thresholds, the condition is classified.
+
+7. Display: Results (bpm and arrhythmia status) are shown on the GUI, alongside the ECG graph.
+
+   ![GUI](https://github.com/user-attachments/assets/22910f36-f653-4935-95ad-7feacca9be75)
+
+
+
+
+
 
 
 
